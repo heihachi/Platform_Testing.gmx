@@ -6,3 +6,4 @@ grav=1; //Gravity strength (usually a small value)
 hsp=0; //Horizontal speed
 vsp=0; //Vertical speed
 ground=1; //Whether the player is on the ground
+//This is a new comment for testing post
